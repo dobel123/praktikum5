@@ -38,7 +38,7 @@ print(list_a)
 ## Hasil Dari Program Berikut :
 # 
 
-# MENAMBAH DATA.P
+# MENAMBAH DATA.PY
 ```Python
 class Mahasiswa:
    def _init_(self, nama, nim, nilai_tugas, nilai_uts, nilai_uas):
