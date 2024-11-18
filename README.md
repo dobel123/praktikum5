@@ -76,6 +76,21 @@ for i, mhs in enumerate(mahasiswa):
 print("-" * 60)
 ```
 
+## PENJELASAN DARI CODE PENAMBAH DATA :
+```Python
+class Mahasiswa:
+    def __init__(self, nama, nim, nilai_tugas, nilai_uts, nilai_uas):
+        self.nama = nama
+        self.nim = nim
+        self.nilai_tugas = nilai_tugas
+        self.nilai_uts = nilai_uts
+        self.nilai_uas = nilai_uas
+__init__: Konstruktor ini digunakan untuk menginisialisasi objek Mahasiswa dengan atribut: nama, nim, nilai_tugas, nilai_uts, nilai_uas
+
+def hitung_nilai_akhir(self):
+    return (self.nilai_tugas + self.nilai_uts + self.nilai_uas) / 3
+```
+
 
 ## Metode ini mengembalikan nilai akhir mahasiswa, yang merupakan rata-rata dari nilai_tugas, nilai_uts, dan nilai_uas.
 Python
