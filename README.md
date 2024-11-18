@@ -1,5 +1,5 @@
-## NAMA : 
-## NIM : 
+## NAMA : DONI SAPUTRA
+## NIM : 312410325
 ## KELAS : TI.24.A4
 ## MATKUL : BAHASA PEMROGRAMAN
 # LATIHAN PRATIKUM 5
@@ -131,7 +131,8 @@ print("-" * 60)
 # CODE PROGRAM DI VISUAL CODE SEBAGAI BERIKUT : 
 # ![WhatsApp Image 2024-11-17 at 03 17 50_b5acd00f](https://github.com/user-attachments/assets/e96a477b-7926-4005-9f22-ee54ee98601b)
 ## HASIL PROGRAM DI ATAS SEPERTI DI BAWAH INI :
-# 
+# ![Cuplikan layar 2024-11-18 232359](https://github.com/user-attachments/assets/40de4000-902c-413b-96c5-c8ac71e140f3)
+
 
 # DAN DI BAWAH INI ADALAH FLOWCHART NYA : 
 # ![Screenshot 2024-11-13 083635](https://github.com/user-attachments/assets/fd62b92c-443e-47e4-b088-05bb79c81b93)
