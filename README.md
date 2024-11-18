@@ -36,7 +36,7 @@ print(list_a)
 # CODE PROGRAM DI VISUAL CODE SEPERTI BERIKUT : 
 # ![WhatsApp Image 2024-11-17 at 03 17 50_01c479a5](https://github.com/user-attachments/assets/644a5654-15e1-449b-8529-d90a5238406d)
 ## Hasil Dari Program Berikut :
-# ![Uploading Cuplikan layar 2024-11-03 143013.png…]()
+# 
 
 
 # MENAMBAH DATA.PY
